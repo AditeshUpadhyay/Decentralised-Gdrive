@@ -6,5 +6,8 @@
   "dependencies": {
     "create-react-app": "^5.0.1",
     "dotenv": "^16.3.1"
+  },
+  "scripts": {
+    "build": "cd app && npm run build"
   }
 }
