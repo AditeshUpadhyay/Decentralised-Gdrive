@@ -8,6 +8,6 @@
     "dotenv": "^16.3.1"
   },
   "scripts": {
-    "build": "cd app && npm run build"
+    "build": "cd client && npm run build"
   }
 }
